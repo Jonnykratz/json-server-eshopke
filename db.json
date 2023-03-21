@@ -280,5 +280,206 @@
         "count": 145
       }
     }
+  ],
+  "video-games": [
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "developer": "Nintendo",
+      "publisher": "Nintendo",
+      "release_date": "March 3, 2017",
+      "platforms": ["Nintendo Switch", "Wii U"],
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "developer": "Rockstar Studios",
+      "publisher": "Rockstar Games",
+      "release_date": "October 26, 2018",
+      "platforms": ["PlayStation 4", "Xbox One", "PC", "Google Stadia"],
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "Super Mario Odyssey",
+      "developer": "Nintendo",
+      "publisher": "Nintendo",
+      "release_date": "October 27, 2017",
+      "platforms": ["Nintendo Switch"],
+      "genre": "Platformer"
+    },
+    {
+      "title": "The Last of Us Part II",
+      "developer": "Naughty Dog",
+      "publisher": "Sony Interactive Entertainment",
+      "release_date": "June 19, 2020",
+      "platforms": ["PlayStation 4", "PlayStation 5"],
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "Minecraft",
+      "developer": "Mojang Studios",
+      "publisher": "Mojang Studios",
+      "release_date": "November 18, 2011",
+      "platforms": ["Various"],
+      "genre": "Sandbox"
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "developer": "Rockstar North",
+      "publisher": "Rockstar Games",
+      "release_date": "September 17, 2013",
+      "platforms": ["PlayStation 3", "PlayStation 4", "Xbox 360", "Xbox One", "PC"],
+      "genre": "Action-adventure"
+    },
+    {
+      "title": "Fortnite",
+      "developer": "Epic Games",
+      "publisher": "Epic Games",
+      "release_date": "July 25, 2017",
+      "platforms": ["Various"],
+      "genre": "Battle royale"
+    },
+    {
+      "title": "God of War",
+      "developer": "Santa Monica Studio",
+      "publisher": "Sony Interactive Entertainment",
+      "release_date": "April 20, 2018",
+      "platforms": ["PlayStation 4", "PlayStation 5"],
+      "genre": "Action-adventure"
+    },
+	{
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2017-03-03",
+    "platforms": ["Nintendo Switch", "Wii U"],
+    "genres": ["Action-adventure", "Open world"],
+    "esrb_rating": "E10+"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "developer": "Rockstar Studios",
+    "publisher": "Rockstar Games",
+    "release_date": "2018-10-26",
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action-adventure", "Open world"],
+    "esrb_rating": "M"
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "release_date": "2017-10-27",
+    "platforms": ["Nintendo Switch"],
+    "genres": ["Platformer", "Action-adventure"],
+    "esrb_rating": "E10+"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "release_date": "2015-05-19",
+    "platforms": ["PlayStation 4", "Xbox One", "PC", "Nintendo Switch"],
+    "genres": ["Action role-playing"],
+    "esrb_rating": "M"
+  },
+  {
+    "title": "Fortnite",
+    "developer": "Epic Games",
+    "publisher": "Epic Games",
+    "release_date": "2017-07-25",
+    "platforms": ["PlayStation 4", "Xbox One", "Nintendo Switch", "PC", "iOS", "Android"],
+    "genres": ["Battle royale", "Sandbox"],
+    "esrb_rating": "T"
+  },
+  {
+    "title": "Overwatch",
+    "developer": "Blizzard Entertainment",
+    "publisher": "Blizzard Entertainment",
+    "release_date": "2016-05-24",
+    "platforms": ["PlayStation 4", "Xbox One", "PC", "Nintendo Switch"],
+    "genres": ["First-person shooter"],
+    "esrb_rating": "T"
+  },
+  {
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "releaseDate": "2017-03-03",
+    "platforms": ["Nintendo Switch", "Wii U"],
+    "genre": ["Action-adventure"],
+    "rating": 9.5
+  },
+  {
+    "title": "Super Mario Odyssey",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "releaseDate": "2017-10-27",
+    "platforms": ["Nintendo Switch"],
+    "genre": ["Platformer"],
+    "rating": 9.3
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "developer": "Rockstar Studios",
+    "publisher": "Rockstar Games",
+    "releaseDate": "2018-10-26",
+    "platforms": ["PlayStation 4", "Xbox One"],
+    "genre": ["Action-adventure", "Western"],
+    "rating": 9.2
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "developer": "CD Projekt Red",
+    "publisher": "CD Projekt",
+    "releaseDate": "2015-05-19",
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genre": ["Action role-playing"],
+    "rating": 9.3
+  },
+  {
+    "title": "God of War",
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive Entertainment",
+    "releaseDate": "2018-04-20",
+    "platforms": ["PlayStation 4"],
+    "genre": ["Action-adventure"],
+    "rating": 9.2
+  },
+  {
+    "title": "Portal 2",
+    "developer": "Valve Corporation",
+    "publisher": "Valve Corporation",
+    "releaseDate": "2011-04-19",
+    "platforms": ["PlayStation 3", "Xbox 360", "PC"],
+    "genre": ["Puzzle-platformer"],
+    "rating": 9.4
+  },
+  {
+    "title": "The Last of Us Part II",
+    "developer": "Naughty Dog",
+    "publisher": "Sony Interactive Entertainment",
+    "releaseDate": "2020-06-19",
+    "platforms": ["PlayStation 4"],
+    "genre": ["Action-adventure", "Survival horror"],
+    "rating": 9.3
+  },
+  {
+    "title": "Half-Life: Alyx",
+    "developer": "Valve Corporation",
+    "publisher": "Valve Corporation",
+    "releaseDate": "2020-03-23",
+    "platforms": ["PC"],
+    "genre": ["First-person shooter"],
+    "rating": 9.5
+  },
+  {
+    "title": "Super Mario 3D World + Bowser's Fury",
+    "developer": "Nintendo EPD",
+    "publisher": "Nintendo",
+    "releaseDate": "2021-02-12",
+    "platforms": ["Nintendo Switch"],
+    "genre": ["Platformer"],
+    "rating": 9.2
+  }
   ]
 }
